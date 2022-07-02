@@ -1,2 +1,7 @@
 # Election_Analysis
-UC Davis Class Week 3
+
+Federal Elections in the United States of America generates a lot of data that needs to be tabulated. It is important that any person that votes, according to the State's laws, has their ballot tallied to provide legitimacy to the U.S. Government. The U.S. adheres to a Democratic Republic system of Government. It is where the populace votes for representatives, these representatives are then the ones who decide public policy. The rational behind a Democratic Republic is by giving citizens a choice when electing leaders, in turn, these leaders will prioritize the will of the people and make laws to better the live's of the citizens. Hence, it behooves vote counters to be accurate and count every vote as it decides how the nation is managed for the good of the people. 
+
+The U.S. has a very large population, estimated at 330 million in 2020 according to the U.S. Census (United States Census Bureau, 2022). Not everyone votes but the majority of people do. It would be very resource intensive to count individual votes by hand. To expedite the electoral process, having standardized voting forms called ballots, ballot counting machines and software that quickly sums up and compares the votes for each candidate is common. 
+
+A U.S. congressional precinct in Colarado has inquired about using a computer script to count votes quickly and to print out the results coincedentally. The hope is that not only will the computer script achieve these objectives but then the script can be used for other elections, not just for one time use.  
