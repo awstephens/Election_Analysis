@@ -1,4 +1,4 @@
-# Using Python To Count Votes in the 1st Congressional District in Colorado
+# Using Python To Count Votes in the 1st Congressional District of Colorado
 
 ## Introduction
 
